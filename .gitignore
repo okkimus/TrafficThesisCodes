@@ -1,0 +1,7 @@
+lataus/data
+data_prosessointi/data
+**/*.bmp
+.ipynb_checkpoints
+__pycache__
+*.pkl
+pythons/lataus/data
